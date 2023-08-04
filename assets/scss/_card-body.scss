@@ -1,0 +1,18 @@
+.card{
+    width: 350px;
+    height:auto;
+    text-align: center;
+    padding: 20px;
+    margin:30px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+    position: relative;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: #686262;     
+}
+.card-body:hover{
+    background-color:#1f9651;
+    transform: translate Y(-10px);
+}
